@@ -7,46 +7,46 @@
 
 ### 项目演示地址：
 
-http://116.62.213.179/laysq/</br></br>
-用户名：test </br>
-密码：888888</br>
+http://116.62.213.179/laysq/<Br/>
+用户名：test<Br/>
+密码：888888<Br/>
 
 ### 项目官方网站
 
-http://116.62.213.179/laysq/sq/Main.jsp/</br>
+http://116.62.213.179/laysq/sq/Main.jsp/<Br/>
 
  
 ### 欢迎加群讨论：313978121
 
 
 ### 前端技术:
-layUi</br>
-jquery</br>
+layUi<Br/>
+jquery<Br/>
 
 ### 后端技术：
 SpringMvc<Br/>
-Spring</br>
-Hibernate</br>
-ehcache</br>
-quartz</br>
+Spring<Br/>
+Hibernate<Br/>
+ehcache<Br/>
+quartz<Br/>
 
 ### 开发环境
-myeclise或者Eclise</br>
-Jdk1.6+</br>
-MySQL5.6</br>
-Tomcate1.7+</br>
+myeclise或者Eclise<Br/>
+Jdk1.6+<Br/>
+MySQL5.6<Br/>
+Tomcate1.7+<Br/>
 
 ### 功能
-菜单管理</br>
-角色管理</br>
-系统功能</br>
-数据字典</br>
-机构信息</br>
-URL拦截</br>
-用户管理</br>
-日志管理</br>
-代码生成器</br>
-定时任务</br>
+菜单管理<Br/>
+角色管理<Br/>
+系统功能<Br/>
+数据字典<Br/>
+机构信息<Br/>
+URL拦截<Br/>
+用户管理<Br/>
+日志管理<Br/>
+代码生成器<Br/>
+定时任务<Br/>
 
 ### 系统截图
 ![输入图片说明](http://116.62.213.179/laysq/sq/images/1.png "在这里输入图片标题")
