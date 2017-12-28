@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="
+http://www.springframework.org/schema/beans 
+http://www.springframework.org/schema/beans/spring-beans-3.0.xsd 
+http://www.springframework.org/schema/context 
+http://www.springframework.org/schema/context/spring-context-3.0.xsd
+">
+
+	<!-- 引入jdbc.properties属性文件 -->
+	<context:property-placeholder location="classpath:jdbc.properties" />
+
+	<!-- 递归扫描dao和service包，寻找@Service和@Repository类归spring管理，自动注入,如果配置错误出现：No 
+		bean named 'userService' is defined -->
+	<context:component-scan base-package="com.gt.sys.dao,com.gt.sys.service,com.gt.app.dao,com.gt.app.service,com.gt.cache" />
+</beans>

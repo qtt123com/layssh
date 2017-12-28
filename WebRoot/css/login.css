@@ -1,0 +1,154 @@
+body {
+	margin: 0;
+}
+
+* {
+	font-family: "Î¢ÈíÑÅºÚ";
+}
+
+li {
+	list-style: none;
+}
+
+img {
+	margin: 0;
+	border: none;
+	display: inline-block;
+}
+
+input {
+	-webkit-appearance: none;
+	padding: 0;
+	outline: none;
+	transition: all 0.30s ease-in-out;
+	-webkit-transition: all 0.30s ease-in-out;
+	-moz-transition: all 0.30s ease-in-out;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+	-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+
+
+.loginbg {
+	width: 100%;
+	margin: auto;
+	padding-top: 42px;
+	background-size: 100%;
+	overflow: hidden;
+}
+
+.loginbody {
+	width: 100%;
+	margin: auto;
+	padding-top: 42px;
+	background: url(../images/login_bj.jpg) no-repeat center top;
+	background-size: 100%;
+	overflow: hidden;
+}
+.logintop {
+	height:90px;
+	width: 100%;
+	margin: auto;
+	background: url(../images/top.jpg) no-repeat center top;
+	background-size: 100%;
+	overflow: hidden;
+}
+
+.login_form {
+	background-color: #fff;
+	width: 346px;
+	float: right;
+	margin-right: 15%;
+	padding-bottom: 30px;
+	margin-bottom: 80px;
+}
+
+.form_name {
+	width: 88%;
+	text-align: center;
+	font-size: 18px;
+	border-bottom: #bbb 1px solid;
+	margin: auto;
+	padding-top: 22px;
+	padding-bottom: 13px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+.name {
+	width: 250px;
+	height: 43px;
+	background-color: #fff;
+	border: #bbb 1px solid;
+	border-radius: 5px;
+	background: url(../images/yhm.png) no-repeat center left;
+	padding-left: 28px;
+	font-size: 16px;
+	display: block;
+	margin: auto;
+	margin-top: 20px;
+}
+
+.password {
+	width: 250px;
+	height: 43px;
+	background-color: #fff;
+	border: #bbb 1px solid;
+	border-radius: 5px;
+	background: url(../images/mm.png) no-repeat center left;
+	padding-left: 28px;
+	font-size: 16px;
+	display: block;
+	margin: auto;
+	margin-top: 20px;
+}
+
+.yzm {
+	width: 288px;
+	margin: auto;
+	margin-top: 10px;
+	overflow: hidden;
+}
+
+.code {
+	width: 118px;
+	height: 43px;
+	background-color: #fff;
+	border: #bbb 1px solid;
+	border-radius: 5px;
+	background: url(../images/yzm.png) no-repeat center left;
+	padding-left: 28px;
+	font-size: 16px;
+	display: inline-block;
+	float: left;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+}
+
+.yzm img {
+	float: right;
+	margin-top: 15px;
+	margin-right: 5px;
+}
+
+.btn {
+	width: 278px;
+	display: block;
+	margin: auto;
+	text-align: center;
+	height: 43px;
+	margin-top: 20px;
+	line-height: 43px;
+	font-size: 18px;
+	background-color: #007acf;
+	color: #fff;
+	border-radius: 5px;
+}
+
+form input:focus {
+	border: #35a5e5 1px solid;
+	box-shadow: 0 0 6px #35a5e5;
+	-webkit-box-shadow: 0 0 6px #35a5e5;
+	-moz-box-shadow: 0 0 6px #35a5e5;
+}
