@@ -13,7 +13,7 @@ http://116.62.213.179/laysq/<Br/>
 
 ### 项目官方网站
 欢迎到官方网站查阅相关文档<Br/>
-http://116.62.213.179/laysq/sq/Main.jsp<Br/>
+http://www.layssh.com/<Br/>
 
  
 ### 欢迎加群讨论：313978121
