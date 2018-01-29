@@ -18,6 +18,8 @@ http://116.62.213.179/laysq/sq/Main.jsp<Br/>
  
 ### 欢迎加群讨论：313978121
 
+ **
+数据库sql文件在WebRoot/db文件夹下** 
 
 ### 前端技术:
 layUi<Br/>
