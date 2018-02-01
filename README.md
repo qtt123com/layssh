@@ -1,6 +1,6 @@
 ### 项目说明
 
-   LaySSH是基于LayUI+SpringMVC+Spring+Hibernate+Mysql搭建而成，内置代码生成器，能够快速生成增删改查代码，节省开发时间，快速构建企业级的web应用系统。
+    LaySSH是一款完全开源免费的开发框架，基于LayUI+SpringMVC+Spring+Hibernate+Mysql搭建而成，内置代码生成器，能够快速生成增删改查代码，节省开发时间，快速构建企业级的web应用系统。
 
    该框架具备一整套完整的权限管理系统，代码简洁，容易入门，方便您进行二次开发。
 
