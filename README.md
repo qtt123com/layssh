@@ -7,7 +7,7 @@
 
 ### 项目演示地址：
 
-http://116.62.213.179/laysq/<Br/>
+http://www.layssh.com/laysq/Login.jsp/<Br/>
 用户名：test<Br/>
 密码：888888<Br/>
 
@@ -51,11 +51,12 @@ URL拦截<Br/>
 定时任务<Br/>
 
 ### 系统截图
-![输入图片说明](http://116.62.213.179/laysq/sq/images/1.png "在这里输入图片标题")
-![输入图片说明](http://116.62.213.179/laysq/sq/images/2.png "在这里输入图片标题")
-![输入图片说明](http://116.62.213.179/laysq/sq/images/3.png "在这里输入图片标题")
-![输入图片说明](http://116.62.213.179/laysq/sq/images/4.png "在这里输入图片标题")
-![输入图片说明](http://116.62.213.179/laysq/sq/images/5.png "在这里输入图片标题")
+![输入图片说明](https://gitee.com/uploads/images/2018/0201/112714_86ac8a60_1109313.png "1.png")
+![输入图片说明](https://gitee.com/uploads/images/2018/0201/112817_a66d5279_1109313.png "2.png")
+![![输入图片说明](https://gitee.com/uploads/images/2018/0201/112731_99bc510c_1109313.png "3.png")]
+![输入图片说明](https://gitee.com/uploads/images/2018/0201/112745_7b2351ff_1109313.png "4.png")
+![输入图片说明](https://gitee.com/uploads/images/2018/0201/112755_d7a0eb41_1109313.png "5.png")
+
 
 
 
