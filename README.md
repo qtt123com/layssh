@@ -5,7 +5,7 @@
      该框架具备一整套完整的权限管理系统，代码简洁，容易入门，方便您进行二次开发。<Br/>
 ### 项目演示地址：
 
-http://www.layssh.com/laysq/Login.jsp/<Br/>
+http://www.layssh.com/laysq/Login.jsp<Br/>
 用户名：test<Br/>
 密码：888888<Br/>
 
