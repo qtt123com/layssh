@@ -44,7 +44,7 @@ public class TemplateHelp {
 		// 设置字符集编码
 		cfg.setEncoding(Locale.CHINA, "UTF-8");
 
-		String PATH=request.getRealPath("/")+"tempalte";
+		String PATH=request.getRealPath("/")+"/tempalte";
 		// 加载模板文件
 		cfg.setDirectoryForTemplateLoading(new File(PATH));
 

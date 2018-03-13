@@ -1,5 +1,4 @@
 <%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
-<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@page import="com.gt.pageModel.SessionInfo"%>
 <%@page import="com.gt.utils.Contans"%>
 <%
